@@ -18,6 +18,10 @@
  `insert into "nazwa  values(1, "imie", "nazwisko" "numer");` wprowadzanie danych do tabeli
  
  > wprowadzanie danych po koleji według kolejności wprowadzania wczesniejszej tabeli
+
+`UPDATE "nazwa" SET "nazwa table'a WHERE id="?"` dodanie czegoś `?` wpisać numer
+
+
  
 
 
